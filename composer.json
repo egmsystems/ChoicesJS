@@ -1,0 +1,19 @@
+{
+    "name": "net.egmsystems/yii2-asset-choices",
+    "description": "fork of https://github.com/Choices-js/Choices",
+    "type": "yii2-extension",
+    "keywords": ["js", "choices.js"],
+    "license": "MIT",
+    "homepage": "https://github.com/egmsystems/ChoicesJS",
+    "support": {
+        "issues": "https://github.com/egmsystems/ChoicesJS/issues",
+        "source": "https://github.com/egmsystems/ChoicesJS/tree/main/src"
+    },
+    "authors": [
+        {
+            "name": "Edgar Gonzalez",
+            "email": "ChoicesJS@EGMSystems.net",
+            "homepage": "https://egmsystems.net?ChoicesJS"
+        }
+    ],
+}
