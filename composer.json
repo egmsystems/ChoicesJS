@@ -1,5 +1,5 @@
 {
-    "name": "net.egmsystems/ChoicesJS",
+    "name": "egmsystems/choices-js",
     "description": "fork of https://github.com/Choices-js/Choices",
     "type": "yii2-extension",
     "keywords": ["js", "choices.js"],
